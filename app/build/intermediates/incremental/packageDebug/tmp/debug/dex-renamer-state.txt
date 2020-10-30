@@ -1,0 +1,4 @@
+#Thu Oct 29 21:25:28 MDT 2020
+base.0=C\:\\Users\\syh19\\CMPUT301F20T34\\Lab8_demo\\301TravisDemo\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
